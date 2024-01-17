@@ -1,0 +1,13 @@
+.search-bar{
+    border-radius: 0.5rem;
+    margin-top:1rem;
+    height: max-content;
+    background-color: aqua;
+    width: 20rem;
+}
+
+
+input{
+    height: 6rem;
+}
+
