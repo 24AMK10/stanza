@@ -9,5 +9,11 @@
 
 input{
     height: 6rem;
+    border: none;
+    border-color: transparent;
+    box-shadow: none;
+    outline: transparent;
+    outline-offset: 2px;
 }
+
 

@@ -7,7 +7,7 @@ export default function Page() {
     <div>
 
       <Header/>
-
+      <hr style={{color:"green"}}/>
     </div>
   )
 } 
