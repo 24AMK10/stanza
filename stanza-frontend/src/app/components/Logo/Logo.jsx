@@ -9,7 +9,7 @@ export default function Logo() {
 
                 <img src="./wonder.png" alt="An SVG of an eye"
                     height={150} width={200}
-                    style={{backgroundColor:"greenyellow", 
+                    style={{backgroundColor:"#CBD18F", 
                         padding:"0.1rem",
                         borderRadius:"0.4rem"
                     }}
@@ -17,4 +17,4 @@ export default function Logo() {
             </div>
         </>
     )
-}   
+}                                                                        
