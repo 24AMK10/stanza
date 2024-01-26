@@ -5,8 +5,10 @@ export default function Page() {
 
   return (
     <div>
+      <div className=" overflow-visible">
+        <Header/>
 
-      <Header/>
+      </div>
       <hr style={{color:"green"}}/>
     </div>
   )

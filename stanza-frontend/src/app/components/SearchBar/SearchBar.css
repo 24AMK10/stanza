@@ -9,9 +9,9 @@
 
 input{
     height: 6rem;
-    border: none;
-    border-color: transparent;
-    box-shadow: none;
+    border: 2px;
+    border-color: rgb(var(--background-color));
+    box-shadow: "green";
     outline: transparent;
     outline-offset: 2px;
 }
